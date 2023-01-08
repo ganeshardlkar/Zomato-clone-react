@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Made wih love from Ganesh</div>
+    <div className='absolute-center'>Made wih love from Ganesh</div>
   )
 }
 
